@@ -1,6 +1,7 @@
 # Controlling-TurtleBot4-in-Gazebo-Simulation
 
 **TurtleBot 4 Autonomous Navigation: Open-Loop Diamond Path**
+
 This repository contains a ROS 2 implementation for controlling a TurtleBot 4 robot in a simulated (Gazebo/Rviz) environment. The goal of the project was to navigate the robot through a series of waypoints to form a precise 5-meter-per-side diamond shape using open-loop control logic.
 
 **Project Description**
